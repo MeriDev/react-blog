@@ -23,36 +23,6 @@
       "body": "blog body",
       "author": "mario",
       "id": 4
-    },
-    {
-      "title": "test",
-      "body": "fff",
-      "author": "yoshi",
-      "id": 5
-    },
-    {
-      "title": "hhh",
-      "body": "test",
-      "author": "mario",
-      "id": 6
-    },
-    {
-      "title": "hhh",
-      "body": "jkjkl",
-      "author": "mario",
-      "id": 7
-    },
-    {
-      "title": "hhh",
-      "body": "jkjkl",
-      "author": "mario",
-      "id": 8
-    },
-    {
-      "title": "test",
-      "body": "test",
-      "author": "mario",
-      "id": 9
     }
   ]
 }
